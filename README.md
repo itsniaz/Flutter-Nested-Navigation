@@ -1,4 +1,8 @@
-[project_demo.webm](https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/172d61f4-ca84-4f9a-9935-f0dc947dbf97)
+
+## Demo
+
+![project_demo](https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1)
+
 
 ## Overview
 
