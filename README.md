@@ -1,6 +1,4 @@
-# Flutter Nested Navigation
-
-![Project Demo](https://github.com/itsniaz/Flutter-Nested-Navigation/raw/main/assets/demo.gif)
+[project_demo.webm](https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/172d61f4-ca84-4f9a-9935-f0dc947dbf97)
 
 ## Overview
 
