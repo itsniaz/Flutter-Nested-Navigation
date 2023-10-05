@@ -1,8 +1,7 @@
 
 ## Demo
 
-![project_demo](https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1)
-
+<img src="https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1" width="50%"/>
 
 ## Overview
 
