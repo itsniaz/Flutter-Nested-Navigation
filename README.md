@@ -1,7 +1,7 @@
 
 ## Demo
 
-<video src="https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1" controls/>
+<video src="https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1" controls> </video>
 
 ## Overview
 
